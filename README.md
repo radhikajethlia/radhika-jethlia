@@ -6,6 +6,9 @@
 - 🌱 I’m Pursuing Master's (MCA) **From Manipal University Jaipur**
 
 - 📫 How to reach me **radhikajethlia@gmail.com**
+- <head>
+  <meta name="p:domain_verify" content="39c1e5a3ca7baba74e0f980447ca8db4"/>
+  </head>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
