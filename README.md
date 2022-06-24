@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Radhika Jethlia</h1>
 <h3 align="center">Self Trust Is The First Secret Of Success</h3>
 
-- 🔭 I’m currently working on **my own Business in Graphic Designing**
+- 🔭 I’m currently working on my own Business in Graphic Designing
 
-- 🌱 I’m Pursuing Master's (MCA) **From Manipal University Jaipur**
+- 🌱 I’m Pursuing Master's (MCA) From Manipal University Jaipur
 
 - 📫 How to reach me **radhikajethlia@gmail.com**
 
