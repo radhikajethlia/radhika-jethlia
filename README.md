@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/radhika-jethlia-b1031423b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/radhika-jethlia-b1031423b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/radhika-jethlia-b1031423b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/radhikajethlia" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCUiUxdkCMZSYnnwSIFL__ww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCUiUxdkCMZSYnnwSIFL__ww" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/radhikajethlia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="radhikajethlia" height="30" width="40" /></a>
 <a href="https://www.blogger.com/profile/06822863703704485272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="radhikajethlia" height="30" width="40" /></a>
